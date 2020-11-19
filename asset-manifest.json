@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/giossalas.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/giossalas.github.io/static/js/main.eca2c366.chunk.js",
+    "main.js.map": "/giossalas.github.io/static/js/main.eca2c366.chunk.js.map",
+    "runtime-main.js": "/giossalas.github.io/static/js/runtime-main.abf1238c.js",
+    "runtime-main.js.map": "/giossalas.github.io/static/js/runtime-main.abf1238c.js.map",
+    "static/js/2.4a492392.chunk.js": "/giossalas.github.io/static/js/2.4a492392.chunk.js",
+    "static/js/2.4a492392.chunk.js.map": "/giossalas.github.io/static/js/2.4a492392.chunk.js.map",
+    "static/js/3.d564ddf2.chunk.js": "/giossalas.github.io/static/js/3.d564ddf2.chunk.js",
+    "static/js/3.d564ddf2.chunk.js.map": "/giossalas.github.io/static/js/3.d564ddf2.chunk.js.map",
+    "index.html": "/giossalas.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/giossalas.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4a492392.chunk.js.LICENSE.txt": "/giossalas.github.io/static/js/2.4a492392.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/giossalas.github.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abf1238c.js",
+    "static/js/2.4a492392.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.eca2c366.chunk.js"
+  ]
+}
