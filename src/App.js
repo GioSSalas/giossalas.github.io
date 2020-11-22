@@ -1,25 +1,20 @@
-import logo from './logo.svg';
+
+import { Provider } from 'react-redux';
 import './App.css';
+import {BrowserRouter as Router} from 'react-router-dom'
+import TopPanel from './components/TopPanel';
+import generateStore from './redux-ducks/store';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="h-screen w-screen bg-white-800">
+      <Provider store={generateStore()}>
+        <Router basename="/">
+          <TopPanel></TopPanel>
+        </Router>
+      </Provider>
     </div>
-  );
+  )
 }
 
 export default App;
