@@ -2,8 +2,8 @@ const en={
     LANGUAGE:'Language',
     CHOOSE_LANG_TITLE:'Choose language',
     NAME:'Emanuel Salas Salas',
-    PROFILE_TITLE:'Full stack Web Developer',
-    SKILLS_TITLE:'Preferred skills',
+    PROFILE_TITLE:'Full-Stack Web Developer',
+    SKILLS_TITLE:'Skills and Aptitudes',
     routes:{
         OVERVIEW:{
             title:"Overview",
@@ -17,6 +17,11 @@ const en={
             title:'Contact me',
             uri:'/pages/contact'
         },
+    },
+    BACKMENU_TITLE:'Back',
+    VCARD:{
+        framework:'Frameworks & Libraries',
+        proglenguages:'Programming lenguages'
     }
 };
 const es={
