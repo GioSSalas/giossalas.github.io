@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/giossalas.github.io/static/css/main.ce1e4855.chunk.css",
-    "main.js": "/giossalas.github.io/static/js/main.f8e68cb6.chunk.js",
-    "main.js.map": "/giossalas.github.io/static/js/main.f8e68cb6.chunk.js.map",
-    "runtime-main.js": "/giossalas.github.io/static/js/runtime-main.2da7c262.js",
-    "runtime-main.js.map": "/giossalas.github.io/static/js/runtime-main.2da7c262.js.map",
+    "main.css": "/giossalas.github.io/static/css/main.d74862f5.chunk.css",
+    "main.js": "/giossalas.github.io/static/js/main.591c01be.chunk.js",
+    "main.js.map": "/giossalas.github.io/static/js/main.591c01be.chunk.js.map",
+    "runtime-main.js": "/giossalas.github.io/static/js/runtime-main.4c9871c5.js",
+    "runtime-main.js.map": "/giossalas.github.io/static/js/runtime-main.4c9871c5.js.map",
     "static/css/2.c35e9f4b.chunk.css": "/giossalas.github.io/static/css/2.c35e9f4b.chunk.css",
-    "static/js/2.2dbaf5f3.chunk.js": "/giossalas.github.io/static/js/2.2dbaf5f3.chunk.js",
-    "static/js/2.2dbaf5f3.chunk.js.map": "/giossalas.github.io/static/js/2.2dbaf5f3.chunk.js.map",
-    "static/js/3.73cb8219.chunk.js": "/giossalas.github.io/static/js/3.73cb8219.chunk.js",
-    "static/js/3.73cb8219.chunk.js.map": "/giossalas.github.io/static/js/3.73cb8219.chunk.js.map",
+    "static/js/2.58939858.chunk.js": "/giossalas.github.io/static/js/2.58939858.chunk.js",
+    "static/js/2.58939858.chunk.js.map": "/giossalas.github.io/static/js/2.58939858.chunk.js.map",
+    "static/js/3.3c8f0037.chunk.js": "/giossalas.github.io/static/js/3.3c8f0037.chunk.js",
+    "static/js/3.3c8f0037.chunk.js.map": "/giossalas.github.io/static/js/3.3c8f0037.chunk.js.map",
     "index.html": "/giossalas.github.io/index.html",
     "static/css/2.c35e9f4b.chunk.css.map": "/giossalas.github.io/static/css/2.c35e9f4b.chunk.css.map",
-    "static/css/main.ce1e4855.chunk.css.map": "/giossalas.github.io/static/css/main.ce1e4855.chunk.css.map",
-    "static/js/2.2dbaf5f3.chunk.js.LICENSE.txt": "/giossalas.github.io/static/js/2.2dbaf5f3.chunk.js.LICENSE.txt",
-    "static/media/imagen_perfil_quad.ce91d22b.webp": "/giossalas.github.io/static/media/imagen_perfil_quad.ce91d22b.webp"
+    "static/css/main.d74862f5.chunk.css.map": "/giossalas.github.io/static/css/main.d74862f5.chunk.css.map",
+    "static/js/2.58939858.chunk.js.LICENSE.txt": "/giossalas.github.io/static/js/2.58939858.chunk.js.LICENSE.txt",
+    "static/media/bootstrap_logo.2e810da0.png": "/giossalas.github.io/static/media/bootstrap_logo.2e810da0.png",
+    "static/media/imagen_perfil_quad.ce91d22b.webp": "/giossalas.github.io/static/media/imagen_perfil_quad.ce91d22b.webp",
+    "static/media/laravel_logo.e3a322da.png": "/giossalas.github.io/static/media/laravel_logo.e3a322da.png",
+    "static/media/react_logo.8f0fc6a6.png": "/giossalas.github.io/static/media/react_logo.8f0fc6a6.png",
+    "static/media/tailwindcss_logo.06d89b52.png": "/giossalas.github.io/static/media/tailwindcss_logo.06d89b52.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2da7c262.js",
+    "static/js/runtime-main.4c9871c5.js",
     "static/css/2.c35e9f4b.chunk.css",
-    "static/js/2.2dbaf5f3.chunk.js",
-    "static/css/main.ce1e4855.chunk.css",
-    "static/js/main.f8e68cb6.chunk.js"
+    "static/js/2.58939858.chunk.js",
+    "static/css/main.d74862f5.chunk.css",
+    "static/js/main.591c01be.chunk.js"
   ]
 }
